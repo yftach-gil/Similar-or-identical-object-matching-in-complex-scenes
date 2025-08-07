@@ -1,4 +1,3 @@
-# Similar-or-identical-object-matching-in-complex-scenes
 # Abstract
 Object matching of image pairs is a wide area of
 research in the field of computer vision. In this paper we
