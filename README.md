@@ -17,4 +17,7 @@ accordingly the matched object is determined.
 Implementing this integration into one framework
 achieves greater results than Lightglue alone, while
 tested on a customized dataset based on COCO
-dataset and on live experiments
+dataset and on live experiments.
+
+# Methodology
+<img width="472" height="247" alt="image" src="https://github.com/user-attachments/assets/165eb74b-1dae-4212-a62c-b0c3183f7524" />
